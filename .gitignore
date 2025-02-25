@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+*
+.pytest_cache
+.idea
+# Virtual environment
+venv/
+.env/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
